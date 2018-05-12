@@ -1,0 +1,28 @@
+_repo: Some-Winter-Days-in-Iowa_18174
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lazell, Frederick John
+    birthdate: 1870
+    deathdate: 1940
+    gutenberg_agent_id: '7853'
+    url: http://www.gutenberg.org/2009/agents/7853
+description: ''
+gutenberg_issued: '2006-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18174'
+  lccn: 08001465
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Natural history -- Iowa'
+- !lcsh 'Natural history -- Outdoor books'
+title: Some Winter Days in Iowa
+url: http://www.gutenberg.org/ebooks/18174
